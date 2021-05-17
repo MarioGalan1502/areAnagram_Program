@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\programas Tendencia\areAnagrams\obj\Debug\net5.0\areAnagrams.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\programas Tendencia\areAnagrams\obj\Debug\net5.0\areAnagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\programas Tendencia\areAnagrams\obj\Debug\net5.0\areAnagrams.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\programas Tendencia\areAnagrams\obj\Debug\net5.0\areAnagrams.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\programas Tendencia\areAnagrams\obj\Debug\net5.0\areAnagrams.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\programas Tendencia\areAnagrams\bin\Debug\net5.0\areAnagrams.exe
+C:\Users\Lenovo\Desktop\programas Tendencia\areAnagrams\bin\Debug\net5.0\areAnagrams.deps.json
+C:\Users\Lenovo\Desktop\programas Tendencia\areAnagrams\bin\Debug\net5.0\areAnagrams.runtimeconfig.json
+C:\Users\Lenovo\Desktop\programas Tendencia\areAnagrams\bin\Debug\net5.0\areAnagrams.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\programas Tendencia\areAnagrams\bin\Debug\net5.0\areAnagrams.dll
+C:\Users\Lenovo\Desktop\programas Tendencia\areAnagrams\bin\Debug\net5.0\ref\areAnagrams.dll
+C:\Users\Lenovo\Desktop\programas Tendencia\areAnagrams\bin\Debug\net5.0\areAnagrams.pdb
+C:\Users\Lenovo\Desktop\programas Tendencia\areAnagrams\obj\Debug\net5.0\areAnagrams.dll
+C:\Users\Lenovo\Desktop\programas Tendencia\areAnagrams\obj\Debug\net5.0\ref\areAnagrams.dll
+C:\Users\Lenovo\Desktop\programas Tendencia\areAnagrams\obj\Debug\net5.0\areAnagrams.pdb
+C:\Users\Lenovo\Desktop\programas Tendencia\areAnagrams\obj\Debug\net5.0\areAnagrams.genruntimeconfig.cache
